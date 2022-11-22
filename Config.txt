@@ -1,0 +1,25 @@
+Configurazione Gioco della vita
+bb **bb***aaaa****bb**aba**ab
+ bb  aaaaaaa          b a b a b
+*** b    a     ab   b  aa  bb
+a    a     ba     b   ba  b  a
+a      b   a   a   b    b
+bbb aaa  aa a b b        a  b
+bb    a     a    a   b   aa  b
+ a    b       a      b  b 
+    a   b    b a    b    
+a                   b  a   b  
+a  b     a       b    b
+a  b   b  a   b  b    a   a
+b   a  b   a   ba 
+* ************************bbbb
+******bbaa***bbbaa  aa       b
+bbb*****aaa*********bb***
+***aaaa*********
+bbb*******************bbbbbbb
+     bbbbbb        aabba
+bbb         bbbbbb
+bbbbb			aaaa
+bb         bbb
+**aaa*bbbbbbbb       aa  aa a
+bbb  bb    b   b  b b b bb  b
